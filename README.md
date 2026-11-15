@@ -11,7 +11,7 @@ Documents de mathématiques de la classe de **Terminale D**, préparés par **l'
 | ✏️ **TD_Exercices et corrigés** | Les travaux dirigés : énoncés (version élève) **et** corrigés détaillés |
 
 ## ℹ️ À savoir
-- Les documents sont au format **PDF**, prêts à lire, imprimer ou partager.
+- Les documents sont au format **PDF**, prêts à lire.
 - Chaque chapitre a son cours et son TD correspondant (avec corrigé).
 
 ## 📬 Contact
