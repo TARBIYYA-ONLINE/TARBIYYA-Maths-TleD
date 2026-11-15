@@ -8,7 +8,7 @@ Documents de mathématiques de la classe de **Terminale D**, préparés par **l'
 |---|---|
 | 📘 **Cours** | Les cours, un fichier par chapitre |
 | 🗓️ **Programme** | Le programme de l'année |
-| ✏️ **TD_Exercices et corrigé** | Les travaux dirigés : énoncés (version élève) **et** corrigés détaillés |
+| ✏️ **TD_Exercices et corrigés** | Les travaux dirigés : énoncés (version élève) **et** corrigés détaillés |
 
 ## ℹ️ À savoir
 - Les documents sont au format **PDF**, prêts à lire, imprimer ou partager.
