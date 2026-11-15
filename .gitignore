@@ -1,0 +1,9 @@
+*
+!.gitignore
+!README.md
+!Cours/
+!Cours/*.pdf
+!Programme/
+!Programme/*.pdf
+!TD_Exercices et corrigé/
+!TD_Exercices et corrigé/*.pdf
